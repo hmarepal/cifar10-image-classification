@@ -74,13 +74,14 @@ The model's accuracy for each class on the test set was:
 
 ## Training and Validation Accuracy/Loss
 
+### Combined Accuracy and Loss
+![Training and Validation Accuracy and Loss](results/training_val_accuracy_loss.png)
 
-![[Pasted image 20260820085115.png]]
+### Accuracy
+![Training and Validation Accuracy](results/training_val_accuracy.png)
 
-![[Pasted image 20260820085147.png]]
-
-![[Pasted image 20260820085214.png]]
-
+### Loss
+![Training and Validation Loss](results/training_val_loss.png)
 ## Predictions
 
 ![[Pasted image 20260820085237.png]]
