@@ -84,7 +84,7 @@ The model's accuracy for each class on the test set was:
 ![Training and Validation Loss](results/training_val_loss.png)
 ## Predictions
 
-![[Pasted image 20260820085237.png]]
+![Predictions](results/predictions.png)
 
 
 ## How to Run
